@@ -1,0 +1,1 @@
+# sample-terraform-symlink
