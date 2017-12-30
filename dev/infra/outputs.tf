@@ -1,7 +1,1 @@
-output "network" {
-  value = "${module.network.outputs}"
-}
-
-output "db" {
-  value = "${module.db.outputs}"
-}
+# Specific Outputs of this segment

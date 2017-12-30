@@ -1,3 +1,4 @@
+# Common Variables for Infra stacks
 vpc_main = {
   cidr = "10.0.0.0/16"
 }
@@ -18,3 +19,5 @@ db_main = {
   username          = "<db-username>"
   password          = "<db-password>"
 }
+
+# Specific Variables for this segment
