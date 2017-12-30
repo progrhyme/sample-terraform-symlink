@@ -1,1 +1,1 @@
-variable "compute_bastion" { type = "map" }
+# Specific Variables for this segment
